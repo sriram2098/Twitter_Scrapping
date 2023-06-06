@@ -71,7 +71,6 @@ The scraped data from the MongoDB database are dispalyed as a DataFrame
 The scraped data from the MongoDB database is downloaded as CSV/ JSON file formats as per the requirement. 
   
   
-### To view the demo video of my project checkout this link -   
-  
+### To view the demo video of my project checkout this link -   [TWITTER SCRAPPING PROJECT](https://www.linkedin.com/posts/sriram-s-343a14190_project-share-video-activity-7071894853235740672-gwbe?utm_source=share&utm_medium=member_desktop)
   
   
